@@ -1,0 +1,6 @@
+@UnitTestingAPIs.ControllerBased_HostAddress = http://localhost:5088
+
+GET {{UnitTestingAPIs.ControllerBased_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
